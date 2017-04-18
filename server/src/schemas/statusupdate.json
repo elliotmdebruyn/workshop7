@@ -5,7 +5,7 @@
   "properties": {
     "userId": {
       "id": "userId",
-      "type": "string"
+      "type": "integer"
     },
     "location": {
       "id": "location",
